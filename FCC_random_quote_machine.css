@@ -1,0 +1,24 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#mainDiv {
+  height: 100%;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+
+#title {
+font-family: 'Indie Flower', cursive;
+font-size: 50px;
+padding-top: 100px;
+padding-bottom: 30px;
+  }
+
+#author {
+  color: #ddd;
+}
